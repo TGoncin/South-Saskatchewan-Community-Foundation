@@ -13,7 +13,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________
 
-# (1) Project team members :
+#Project team members :
   
   |      | Tom | Zifran | Gabriel | Charles |
   |------|-----|--------|---------|---------|
@@ -23,7 +23,7 @@ ________________________________________________________________________________
 _____________________________________________________________________
 
 <div align="center">
-<h3>(2)        Summarized project background & business need/opportunity : </h3>
+<h3>Summarized project background & business need/opportunity : </h3>
 
 Creating a more efficient and easier to use site that is designed to handle all of the South-SK Community Foundation's donor and donor beneficiaries. 
 
@@ -31,7 +31,7 @@ Creating a more efficient and easier to use site that is designed to handle all 
 _____________________________________________________________________
 
 <div align="center">
-<h3>(3)        Northstar & carryover customers : </h3>
+<h3>Northstar & carryover customers : </h3>
 
 Our northstar is oriented around donors (tend to be older people; 40+ years of age) and it comes down to all business owners, foundation owners, donor beneficiaries, etc.
 Everyone else is a carryover customer since if someone of old age can use it than someone of young age theoretically can.
@@ -40,7 +40,7 @@ Everyone else is a carryover customer since if someone of old age can use it tha
 _____________________________________________________________________
 
 <div align="center">
-<h3>(4)        Project assumptions : (e.g. WordPress) : </h3>
+<h3>Project assumptions : (e.g. WordPress) : </h3>
 
 - We assume WordPress can handle our Figma design
 - We assume we will be able to become sufficent enough in WordPress to create the desired objective (Within given time-frame)
@@ -51,7 +51,7 @@ _____________________________________________________________________
 _____________________________________________________________________
 
 <div align="center">
-<h3>(5)        Project constraints : (beyond time - we're all busy - what are the "real" constraints here folks) : </h3>
+<h3>Project constraints : (beyond time - we're all busy - what are the "real" constraints here folks) : </h3>
 
 - Proficient enough (Within time-frame) in WordPress to create the desired objective
 - WordPress contains the capabilities to produce our vision
