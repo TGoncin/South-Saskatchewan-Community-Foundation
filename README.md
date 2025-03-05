@@ -6,16 +6,38 @@ University of Regina ENSE class project: Using the knowledge and skills gained t
 
 ___________________________________________________________________________________________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________
-                                                         
-Group A (Charles, Tom, Zifran, Gabriel):
 
-     
-  |      | Tom | Zifran | Gabriel | Charles |
-  |------|-----|--------|---------|---------|
-  |Email|tgj616@uregina.ca|zkc929@uregina.ca|ggb676@uregina.ca| ??????? |
-  |ID| 200412666| 200502201 | 200426525| ?????? |
+<div style="text-align: center;">
+  <h1 style="font-size: 20px;">Group Members (Group A): Tom, Zifran, Gabriel, Charles</h1>
+</div>
 
-                                                     
+<div style="text-align: center;">
+  <table style="font-size: 20px; margin: 0 auto;">
+    <tr>
+      <th></th>
+      <th>Tom</th>
+      <th>Zifran</th>
+      <th>Gabriel</th>
+      <th>Charles</th>
+    </tr>
+    <tr>
+      <td>Email</td>
+      <td>tgj616@uregina.ca</td>
+      <td>zkc929@uregina.ca</td>
+      <td>ggb676@uregina.ca</td>
+      <td>No Show</td>
+    </tr>
+    <tr>
+      <td>ID</td>
+      <td>200412666</td>
+      <td>200502201</td>
+      <td>200426525</td>
+      <td>No Show</td>
+    </tr>
+  </table>
+</div>
+
+
 ___________________________________________________________________________________________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________
 
