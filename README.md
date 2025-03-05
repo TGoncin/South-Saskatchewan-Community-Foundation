@@ -1,20 +1,16 @@
 _____________________________________________________________________
+![SSCF-GradientLogomark-GreyWordmark](https://github.com/user-attachments/assets/26ad7898-1b2b-4d72-95f4-f5194feb1953)
 
-# <ins>**South-Saskatchewan-Community-Foundation**</ins>
-University of Regina ENSE class project: Using the knowledge and skills gained through the semester we have a project that requires us to solve business needs for a local foundation.
+# <ins>**ENSE 271 Class Project**</ins>
+Using the knowledge and skills gained through the semester we have a project that requires us to solve business needs for a local foundation.
 
 ___________________________________________________________________________________________________________________________________________________________________
 
-## Group Members: Tom, Zifran, Gabriel, Charles</h1>
-
-
-
-
-
+## Group A
 <div style="text-align: center;">
   <table style="font-size: 20px; margin: 0 auto;">
     <tr>
-      <th></th>
+      <th>Group Members:</th>
       <th>Tom</th>
       <th>Zifran</th>
       <th>Gabriel</th>
@@ -41,6 +37,18 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________________________________
 
+
+
+## Stories On Board Link:
+
+
+
+https://goncin.storiesonboard.com/m/guidemap
+
+![image](https://github.com/user-attachments/assets/49238807-908a-4581-882a-cc23eb75aba8)
+
+
+_____________________________________________________________________
 
 Summarized project background & business need/opportunity:
 
