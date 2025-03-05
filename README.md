@@ -1,15 +1,15 @@
-# South-Saskatchewan-Community-Foundation
+_____________________________________________________________________
+
+# <ins>**South-Saskatchewan-Community-Foundation**</ins>
 University of Regina ENSE class project: Using the knowledge and skills gained through the semester we have a project that requires us to solve business needs for a local foundation.
 
-
-
-
-___________________________________________________________________________________________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________
 
-<div style="text-align: center;">
-  <h1 style="font-size: 20px;">Group Members (Group A): Tom, Zifran, Gabriel, Charles</h1>
-</div>
+## Group Members: Tom, Zifran, Gabriel, Charles</h1>
+
+
+
+
 
 <div style="text-align: center;">
   <table style="font-size: 20px; margin: 0 auto;">
@@ -38,10 +38,9 @@ ________________________________________________________________________________
 </div>
 
 
-___________________________________________________________________________________________________________________________________________________________________
+
 ___________________________________________________________________________________________________________________________________________________________________
 
-_____________________________________________________________________
 
 Summarized project background & business need/opportunity:
 
