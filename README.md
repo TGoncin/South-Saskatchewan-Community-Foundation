@@ -7,31 +7,28 @@ University of Regina ENSE class project: Using the knowledge and skills gained t
 ___________________________________________________________________________________________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________
                                                          
-<div align="center">
-<h3>Group A (Charles, Tom, Zifran, Gabriel) </h3>
-                                                          
-___________________________________________________________________________________________________________________________________________________________________
-___________________________________________________________________________________________________________________________________________________________________
+Group A (Charles, Tom, Zifran, Gabriel):
 
-#Project team members :
-  
+     
   |      | Tom | Zifran | Gabriel | Charles |
   |------|-----|--------|---------|---------|
   |Email|tgj616@uregina.ca|zkc929@uregina.ca|ggb676@uregina.ca| ??????? |
   |ID| 200412666| 200502201 | 200426525| ?????? |
 
+                                                     
+___________________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
+
 _____________________________________________________________________
 
-<div align="center">
-<h3>Summarized project background & business need/opportunity : </h3>
+Summarized project background & business need/opportunity:
 
 Creating a more efficient and easier to use site that is designed to handle all of the South-SK Community Foundation's donor and donor beneficiaries. 
 
 
 _____________________________________________________________________
 
-<div align="center">
-<h3>Northstar & carryover customers : </h3>
+Northstar & carryover customers:
 
 Our northstar is oriented around donors (tend to be older people; 40+ years of age) and it comes down to all business owners, foundation owners, donor beneficiaries, etc.
 Everyone else is a carryover customer since if someone of old age can use it than someone of young age theoretically can.
@@ -39,8 +36,7 @@ Everyone else is a carryover customer since if someone of old age can use it tha
 
 _____________________________________________________________________
 
-<div align="center">
-<h3>Project assumptions : (e.g. WordPress) : </h3>
+Project assumptions : (e.g. WordPress):
 
 - We assume WordPress can handle our Figma design
 - We assume we will be able to become sufficent enough in WordPress to create the desired objective (Within given time-frame)
@@ -50,8 +46,7 @@ _____________________________________________________________________
 
 _____________________________________________________________________
 
-<div align="center">
-<h3>Project constraints : (beyond time - we're all busy - what are the "real" constraints here folks) : </h3>
+Project constraints : (beyond time - we're all busy - what are the "real" constraints here folks):
 
 - Proficient enough (Within time-frame) in WordPress to create the desired objective
 - WordPress contains the capabilities to produce our vision
