@@ -2,7 +2,7 @@ _____________________________________________________________________
 ![SSCF-GradientLogomark-GreyWordmark](https://github.com/user-attachments/assets/26ad7898-1b2b-4d72-95f4-f5194feb1953)
 
 # <ins>**ENSE 271 Class Project**</ins>
-Using the knowledge and skills gained through the semester we have a project that requires us to solve business needs for a local foundation.
+Using the knowledge and skills gained throughout the semester, we are assigned a project that requires us to solve a local businesses (South-Saskatewan Community Foundation) need for a precise and easily navigable area on their website for charities and foundations to find information, services and resources with haste.
 
 ___________________________________________________________________________________________________________________________________________________________________
 
