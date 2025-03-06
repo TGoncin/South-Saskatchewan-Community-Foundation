@@ -37,6 +37,7 @@ ___________________________________________________
 ### Tom Goncin:
 ![image](https://github.com/user-attachments/assets/4de1eb15-32db-47c2-91d9-0c59ef1565f9)
 ### Zifran:
+![image](https://github.com/user-attachments/assets/6487bc1e-440b-404a-876b-5ffde3262722)
 
 
 
