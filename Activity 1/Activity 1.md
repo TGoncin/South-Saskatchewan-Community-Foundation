@@ -45,9 +45,9 @@ ___________________________________________________
 
 ## Site Map
 ### Zifran:
-![image](https://github.com/user-attachments/assets/4de1eb15-32db-47c2-91d9-0c59ef1565f9)
-### Tom Goncin:
 
+### Tom Goncin:
+![image](https://github.com/user-attachments/assets/4de1eb15-32db-47c2-91d9-0c59ef1565f9)
 ### Gabriel:
 
 ___________________________________________________
