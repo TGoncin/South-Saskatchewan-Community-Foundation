@@ -65,14 +65,14 @@ We, as a group, collectively gather and organize our ideas [here](https://goncin
 
 _____________________________________________________________________
 
-Summarized project background & business need/opportunity:
+## Summarized project background & business need/opportunity:
 
 Creating a more efficient and easier to use site that is designed to handle all of the South-SK Community Foundation's donor and donor beneficiaries. 
 
 
 _____________________________________________________________________
 
-Northstar & carryover customers:
+## Northstar & carryover customers:
 
 Our northstar is oriented around donors (tend to be older people; 40+ years of age) and it comes down to all business owners, foundation owners, donor beneficiaries, etc.
 Everyone else is a carryover customer since if someone of old age can use it than someone of young age theoretically can.
@@ -80,7 +80,7 @@ Everyone else is a carryover customer since if someone of old age can use it tha
 
 _____________________________________________________________________
 
-Project assumptions:
+## Project assumptions:
 
 - We assume WordPress can handle our Figma design
 - We assume we will be able to become sufficent enough in WordPress to create the desired objective (Within given time-frame)
@@ -90,7 +90,7 @@ Project assumptions:
 
 _____________________________________________________________________
 
-Project constraints:
+## Project constraints:
 
 - Proficient enough (Within time-frame) in WordPress to create the desired objective
 - WordPress contains the capabilities to produce our vision
