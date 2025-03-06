@@ -37,7 +37,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________________________________
 
-# StoriesOnBoard
+# [<img src="https://github.com/user-attachments/assets/b7a6ed9b-12d8-4340-a259-dd1cb106e7d6" width="32" height="32">](https://goncin.storiesonboard.com/storymap/guidemap) StoriesOnBoard
 
 [![image](https://github.com/user-attachments/assets/87768ea8-9d73-4e8d-ac50-dd824e4a5a5a)
 
