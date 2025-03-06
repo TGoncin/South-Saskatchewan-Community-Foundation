@@ -45,23 +45,23 @@ ________________________________________________________________________________
 
 https://goncin.storiesonboard.com/m/guidemap
 
-# Summary of Stories On Board
+# Summary of Stories On Board Steps:
 
 ![image](https://github.com/user-attachments/assets/49238807-908a-4581-882a-cc23eb75aba8)
 
-## Summary of Volunteer Resources
+## Summary of Volunteer Resources Steps:
 
 ![image](https://github.com/user-attachments/assets/458b7142-4091-462d-ba6b-918743eee7f3)
 
-## Summary of Funding & Grants
+## Summary of Funding & Grants Steps:
 
 ![image](https://github.com/user-attachments/assets/b7b23953-a180-4f9f-bd2e-66a763cbc042)
 
-## Summary of Legal & Compliance
+## Summary of Legal & Compliance Steps:
 
 ![image](https://github.com/user-attachments/assets/76417c9a-a0fb-4716-a9ad-eb90af8c5009)
 
-## Summary of Marketing & Events
+## Summary of Marketing & Events Steps:
 
 ![image](https://github.com/user-attachments/assets/89735100-d39f-4566-a68c-df60159b73e3)
 
