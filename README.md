@@ -39,11 +39,7 @@ ________________________________________________________________________________
 
 
 
-# Stories On Board Link:
-
-
-
-https://goncin.storiesonboard.com/m/guidemap
+[![image](https://github.com/user-attachments/assets/2fab3846-6642-4ddd-826e-dcf62cffb3f3)](https://goncin.storiesonboard.com/storymap/guidemap)
 
 # Summary of Stories On Board Steps:
 
