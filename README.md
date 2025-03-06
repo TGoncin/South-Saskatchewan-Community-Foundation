@@ -37,9 +37,11 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________________________________
 
-
+# StoriesOnBoard
 
 [![image](https://github.com/user-attachments/assets/2fab3846-6642-4ddd-826e-dcf62cffb3f3)](https://goncin.storiesonboard.com/storymap/guidemap)
+
+We, as a group, collectively gather and organize our ideas [here](https://goncin.storiesonboard.com/storymap/guidemap)!
 
 # Summary of Stories On Board Steps:
 
