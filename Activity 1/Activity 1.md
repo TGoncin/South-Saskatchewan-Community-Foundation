@@ -23,6 +23,7 @@ ___________________________________________________
 ![image](https://github.com/user-attachments/assets/07e49df0-34cc-4966-a46f-af91b2208191)
 ### Zifran:
 ![image](https://github.com/user-attachments/assets/30e0bb4e-a012-4957-925c-c7328b0d3801)
+
 ___________________________________________________
 
 ## Empathy Map Diagram
@@ -40,6 +41,7 @@ ___________________________________________________
 ### Zifran:
 ![image](https://github.com/user-attachments/assets/59de4702-a8d3-49d9-9bc0-bce4e7e80172)
 
+___________________________________________________
 
 ## Low-Fidelity Prototype
 ### Tom Goncin:
@@ -47,13 +49,6 @@ ___________________________________________________
 ### Gabriel:
 
 ### Zifran:
-___________________________________________________
-
-## Site Map
-### Zifran:
-
-### Tom Goncin:
-
-### Gabriel:
+![image](https://github.com/user-attachments/assets/b93b1c89-3b29-42f0-a183-dc541b6f0b23)
 
 ___________________________________________________
