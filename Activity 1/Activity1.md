@@ -17,11 +17,11 @@ ___________________________________________________
 ___________________________________________________
 
 ## Affinity Diagram
-###Tom Goncin:
+### Tom Goncin:
 ![image](https://github.com/user-attachments/assets/b2fb13ee-1e0e-430b-aa0b-76b733f615fb)
-###Gabriel:
+### Gabriel:
 ![image](https://github.com/user-attachments/assets/07e49df0-34cc-4966-a46f-af91b2208191)
-###Zifran:
+### Zifran:
 ![image](https://github.com/user-attachments/assets/30e0bb4e-a012-4957-925c-c7328b0d3801)
 ___________________________________________________
 
@@ -32,11 +32,11 @@ ___________________________________________________
 
 ___________________________________________________
 ## User SiteMap
-###Gabriel:
+### Gabriel:
 ![image](https://github.com/user-attachments/assets/52bd19bc-66a8-4fc3-beee-c59fc572e62c)
-###Tom Goncin:
+### Tom Goncin:
 ![image](https://github.com/user-attachments/assets/48b16d12-8970-47e6-b60f-3fbe6ba043f7)
-###Zifran:
+### Zifran:
 ![image](https://github.com/user-attachments/assets/feb02f90-cfd5-459c-9ccf-6cee5453ebe3)
 
 
@@ -44,11 +44,11 @@ ___________________________________________________
 ___________________________________________________
 
 ## Site Map
-###Zifran:
+### Zifran:
 ![image](https://github.com/user-attachments/assets/4de1eb15-32db-47c2-91d9-0c59ef1565f9)
-###Tom Goncin:
+### Tom Goncin:
 
-###Gabriel:
+### Gabriel:
 
 ___________________________________________________
 
