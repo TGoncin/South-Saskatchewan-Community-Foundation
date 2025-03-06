@@ -51,7 +51,3 @@ ___________________________________________________
 ### Gabriel:
 
 ___________________________________________________
-
-## Team-Customer Check in
-![image](https://github.com/user-attachments/assets/2bbca099-6ced-4af0-bc23-08d6aea8c557)
-![image](https://github.com/user-attachments/assets/4cad724d-06f9-4bf1-9cb3-437fd7e934e8)
