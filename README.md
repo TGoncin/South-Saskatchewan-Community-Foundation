@@ -84,7 +84,7 @@ Everyone else is a carryover customer since if someone of old age can use it tha
 
 _____________________________________________________________________
 
-Project assumptions : (e.g. WordPress):
+Project assumptions:
 
 - We assume WordPress can handle our Figma design
 - We assume we will be able to become sufficent enough in WordPress to create the desired objective (Within given time-frame)
@@ -94,7 +94,7 @@ Project assumptions : (e.g. WordPress):
 
 _____________________________________________________________________
 
-Project constraints : (beyond time - we're all busy - what are the "real" constraints here folks):
+Project constraints:
 
 - Proficient enough (Within time-frame) in WordPress to create the desired objective
 - WordPress contains the capabilities to produce our vision
