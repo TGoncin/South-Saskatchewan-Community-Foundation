@@ -18,9 +18,9 @@ ___________________________________________________
 
 ## Affinity Diagrams
 ### Tom Goncin:
-![image](https://github.com/user-attachments/assets/b2fb13ee-1e0e-430b-aa0b-76b733f615fb)
-### Gabriel:
 ![image](https://github.com/user-attachments/assets/07e49df0-34cc-4966-a46f-af91b2208191)
+### Gabriel:
+![image](https://github.com/user-attachments/assets/b2fb13ee-1e0e-430b-aa0b-76b733f615fb)
 ### Zifran:
 ![image](https://github.com/user-attachments/assets/30e0bb4e-a012-4957-925c-c7328b0d3801)
 
@@ -35,7 +35,7 @@ ___________________________________________________
 
 ## Navigation Site Maps
 ### Gabriel:
-
+![image](https://github.com/user-attachments/assets/e72c745e-5482-4069-8ac4-5eb000d46595)
 ### Tom Goncin:
 ![image](https://github.com/user-attachments/assets/4de1eb15-32db-47c2-91d9-0c59ef1565f9)
 ### Zifran:
@@ -47,7 +47,7 @@ ___________________________________________________
 ### Tom Goncin:
 
 ### Gabriel:
-
+![image](https://github.com/user-attachments/assets/c48af31f-e5f7-4ff6-ad79-764c04a438ca)
 ### Zifran:
 ![image](https://github.com/user-attachments/assets/b93b1c89-3b29-42f0-a183-dc541b6f0b23)
 
