@@ -31,14 +31,14 @@ ___________________________________________________
 ![image](https://github.com/user-attachments/assets/cce9a750-cdde-4ff3-8475-c7f29479dbe4)
 
 ___________________________________________________
+
 ## Navigation Site Map
 ### Gabriel:
 
 ### Tom Goncin:
 ![image](https://github.com/user-attachments/assets/4de1eb15-32db-47c2-91d9-0c59ef1565f9)
 ### Zifran:
-![image](https://github.com/user-attachments/assets/6487bc1e-440b-404a-876b-5ffde3262722)
-
+![image](https://github.com/user-attachments/assets/59de4702-a8d3-49d9-9bc0-bce4e7e80172)
 
 
 ## Low-Fidelity Prototype
