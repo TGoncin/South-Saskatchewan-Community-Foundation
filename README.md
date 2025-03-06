@@ -39,10 +39,6 @@ ________________________________________________________________________________
 
 # [<img src="https://github.com/user-attachments/assets/b7a6ed9b-12d8-4340-a259-dd1cb106e7d6" width="32" height="32">](https://goncin.storiesonboard.com/storymap/guidemap) StoriesOnBoard
 
-[![image](https://github.com/user-attachments/assets/87768ea8-9d73-4e8d-ac50-dd824e4a5a5a)
-
-[![](https://github.com/user-attachments/assets/2fab3846-6642-4ddd-826e-dcf62cffb3f3)](https://goncin.storiesonboard.com/storymap/guidemap)
-
 We, as a group, collectively gather and organize our ideas [here](https://goncin.storiesonboard.com/storymap/guidemap)!
 
 # Summary of Stories On Board Steps:
