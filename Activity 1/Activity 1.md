@@ -3,7 +3,7 @@ ___________________________________________________
 
 ___________________________________________________
 
-## First Weeks Notes:
+## First Week's Notes:
 ![image](https://github.com/user-attachments/assets/52bd19bc-66a8-4fc3-beee-c59fc572e62c)
 ![image](https://github.com/user-attachments/assets/48b16d12-8970-47e6-b60f-3fbe6ba043f7)
 ![image](https://github.com/user-attachments/assets/feb02f90-cfd5-459c-9ccf-6cee5453ebe3)
@@ -16,7 +16,7 @@ ___________________________________________________
 
 ___________________________________________________
 
-## Affinity Diagram
+## Affinity Diagrams
 ### Tom Goncin:
 ![image](https://github.com/user-attachments/assets/b2fb13ee-1e0e-430b-aa0b-76b733f615fb)
 ### Gabriel:
@@ -26,14 +26,14 @@ ___________________________________________________
 
 ___________________________________________________
 
-## Empathy Map Diagram
+## Empathy Map Diagrams
 ![image](https://github.com/user-attachments/assets/4be5745c-2665-44f8-9672-beadb42aa283)
 ![image](https://github.com/user-attachments/assets/cca2ebdf-4934-4b6c-9f23-39008f2fea7d)
 ![image](https://github.com/user-attachments/assets/cce9a750-cdde-4ff3-8475-c7f29479dbe4)
 
 ___________________________________________________
 
-## Navigation Site Map
+## Navigation Site Maps
 ### Gabriel:
 
 ### Tom Goncin:
@@ -43,7 +43,7 @@ ___________________________________________________
 
 ___________________________________________________
 
-## Low-Fidelity Prototype
+## Low-Fidelity Prototypes
 ### Tom Goncin:
 
 ### Gabriel:
