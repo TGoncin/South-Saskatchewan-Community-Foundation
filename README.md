@@ -9,13 +9,14 @@
 <br> </b>
 <br> </b>
 ## Goal Summary
-
+<br> </b>
 Using the knowledge and skills gained throughout the semester, we are assigned a project that requires us to solve a local Foundations (South-Saskatewan Community Foundation) need for a precise and easily navigable area on their website for charities and foundations to find resources and support.
 
 <br> </b>
 ___________________________________________________________________________________________________________________________________________________________________
 <br> </b>
 ## Group A - Our team's members
+<br> </b>
 <div style="text-align: center;">
   <table style="font-size: 20px; margin: 0 auto;">
     <tr>
