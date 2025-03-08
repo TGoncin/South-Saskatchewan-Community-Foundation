@@ -1,6 +1,6 @@
 <br> </b>
 
-## <ins> ▁ ▂ ▄ ▅ ▆ Our University of Regina, Software Systems Engineering Project ▆ ▅ ▄ ▂ ▁</ins>
+## <ins> ▁ ▂ ▄ ▅ ▆ University of Regina Software Systems Engineering Project ▆ ▅ ▄ ▂ ▁</ins>
 
 <br> </b>
 
