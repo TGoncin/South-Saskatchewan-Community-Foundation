@@ -8,14 +8,14 @@
 ![SSCF-GradientLogomark-GreyWordmark](https://github.com/user-attachments/assets/26ad7898-1b2b-4d72-95f4-f5194feb1953)
 <br> </b>
 <br> </b>
-## Goal Summary:
+## Goal Summary
 
 Using the knowledge and skills gained throughout the semester, we are assigned a project that requires us to solve a local Foundations (South-Saskatewan Community Foundation) need for a precise and easily navigable area on their website for charities and foundations to find resources and support.
 
 <br> </b>
 ___________________________________________________________________________________________________________________________________________________________________
 <br> </b>
-## Group A - Our team's members:
+## Group A - Our team's members
 <div style="text-align: center;">
   <table style="font-size: 20px; margin: 0 auto;">
     <tr>
@@ -51,7 +51,7 @@ ________________________________________________________________________________
 We, as a group, collectively gather and organize our ideas [here](https://goncin.storiesonboard.com/storymap/guidemap)!
 
 <br> </b>
-## Summary of Stories On Board:
+## Summary of Stories On Board
 <br> </b>
 ### In order to reduce the quantity of photos uploaded, we have uploaded an overall photo of the Stories On Board. Underneath, more photos will appear of the content within those subpages gathered into a screenshot for easier review. 
 <br> </b>
@@ -62,28 +62,28 @@ Of course, you can also click the link above and go straight to our Stories On B
 <br> </b>
 <br> </b>
 <br> </b>
-## Summary of Volunteer Resources Sub-Page:
+## Summary of Volunteer Resources Sub-Page
 <br> </b>
 <br> </b>
 ![image](https://github.com/user-attachments/assets/458b7142-4091-462d-ba6b-918743eee7f3)
 <br> </b>
 <br> </b>
 <br> </b>
-## Summary of Funding & Grants Sub-Page:
+## Summary of Funding & Grants Sub-Page
 <br> </b>
 <br> </b>
 ![image](https://github.com/user-attachments/assets/b7b23953-a180-4f9f-bd2e-66a763cbc042)
 <br> </b>
 <br> </b>
 <br> </b>
-## Summary of Legal & Compliance Sub-Page:
+## Summary of Legal & Compliance Sub-Page
 <br> </b>
 <br> </b>
 ![image](https://github.com/user-attachments/assets/76417c9a-a0fb-4716-a9ad-eb90af8c5009)
 <br> </b>
 <br> </b>
 <br> </b>
-## Summary of Marketing & Events Sub-Page:
+## Summary of Marketing & Events Sub-Page
 <br> </b>
 <br> </b>
 ![image](https://github.com/user-attachments/assets/89735100-d39f-4566-a68c-df60159b73e3)
@@ -92,37 +92,73 @@ Of course, you can also click the link above and go straight to our Stories On B
 
 _____________________________________________________________________
 <br> </b>
-## Summarized project background & business need/opportunity:
+## Summarized project background & business need/opportunity
 <br> </b>
-Creating a more efficient and easier to use site that is designed to handle all of the South-SK Community Foundation's donor and donor beneficiaries. 
+<br> </b>
+This project provides a practical learning experience in crafting effective website design strategies to address real business challenges, leveraging the versatility of WordPress, provided our outlined assumptions are validated and resources are secured.
+<br> </b>
+<br> </b>
+
+▆ Technical Feasibility
+<br> </b>
+- The WordPress platform must adequately support the project's complex Figma design and functional vision.
+- The team must rapidly achieve sufficient WordPress proficiency to execute the project within the designated timeline.
+<br> </b>
+<br> </b>
+
+▆ Resource Availability
+<br> </b>
+- Reliable team availability is crucial to meet project milestones.
+- An external partner is utilized for request form and email services, requiring seamless integration.
+<br> </b>
+<br> </b>
+
+▆ Client Collaboration
+<br> </b>
+<br> </b>
+- Consistent, timely, and actionable client feedback is essential for iterative development and project alignment.
+<br> </b>
 <br> </b>
 <br> </b>
 _____________________________________________________________________
 <br> </b>
-## Northstar & carryover customers:
+## Northstar & carryover customers
 <br> </b>
-Our northstar is oriented around donors (tend to be older people; 40+ years of age) and it comes down to all business owners, foundation owners, donor beneficiaries, etc.
-<br> </b>
-Everyone else is a carryover customer since if someone of old age can use it than someone of young age theoretically can.
-<br> </b>
-<br> </b>
-_____________________________________________________________________
-<br> </b>
-## Project assumptions:
-<br> </b>
-- We assume WordPress can handle our Figma design
-- We assume we will be able to become sufficent enough in WordPress to create the desired objective (Within given time-frame)
-- We assume, because of the response of the Team Meeting that she uses another partner for the request form/ email services
+- Applying the "North Star" strategy, charities will be the guiding light for sustained alignment and impact, we will empower charities to excel in volunteer acquisition, funding, compliance, and outreach. A central, ethical leader embodies this strategy, ensuring focus on long-term objectives and a consistent, impactful charitable experience.
+
 <br> </b>
 <br> </b>
 _____________________________________________________________________
 <br> </b>
-## Project constraints:
+## Project assumptions
 <br> </b>
-- Proficient enough (Within time-frame) in WordPress to create the desired objective
-- WordPress contains the capabilities to produce our vision
-- Team availability
-- Sufficient client feedback
+<br> </b>
+▆ We are proceeding with the assumption that WordPress's capabilities align with our Figma design specifications.
+<br> </b>
+<br> </b>
+▆ We are confident in our team's ability to achieve proficiency in WordPress within the designated timeframe to meet project objectives.
+<br> </b>
+<br> </b>
+▆ Based on discussions during the team meeting, we understand that an external partner is utilized for request form and email services.
+<br> </b>
+<br> </b>
+<br> </b>
+_____________________________________________________________________
+<br> </b>
+## Project constraints
+<br> </b>
+<br> </b>
+▆ Attainment of necessary WordPress proficiency within the project timeline to achieve defined objectives.
+<br> </b>
+<br> </b>
+▆ Verification that WordPress platform capabilities align with the project's design and functional requirements.
+<br> </b>
+<br> </b>
+▆ Ensured team availability to meet project milestones.
+<br> </b>
+<br> </b>
+▆ Timely and comprehensive client feedback to facilitate iterative development.
+<br> </b>
 <br> </b>
 <br> </b>
 _____________________________________________________________________
