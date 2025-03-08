@@ -1,6 +1,6 @@
 <br> </b>
 
-## <ins>___ ▂ ▄ ▅ ▆ UofR Software Systems Engineering Project ▆ ▅ ▄ ▂ ___</ins>
+## <ins>_____ ▂ ▄ ▅ ▆ UofR Software Systems Engineering Project ▆ ▅ ▄ ▂ _____</ins>
 
 <br> </b>
 
