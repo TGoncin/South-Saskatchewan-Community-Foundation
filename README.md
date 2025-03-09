@@ -54,9 +54,7 @@ We, as a group, collectively gather and organize our ideas [here](https://goncin
 <br> </b>
 ## Summary of Stories On Board
 <br> </b>
-### In order to reduce the quantity of photos uploaded, we have uploaded an overall photo of the Stories On Board. Underneath, more photos will appear of the content within those subpages gathered into a screenshot for easier review. 
-<br> </b>
-Of course, you can also click the link above and go straight to our Stories On Board file on their website.
+### For a quicker overview, we've included a single image of the Stories On Board section. Below, you'll find screenshots of subpage content for detailed review. Alternatively, the link above provides direct access to the full Stories On Board file.
 <br> </b>
 <br> </b>
 ![image](https://github.com/user-attachments/assets/49238807-908a-4581-882a-cc23eb75aba8)
