@@ -10,7 +10,7 @@
 <br> </b>
 ## Goal Summary
 <br> </b>
-Using the knowledge and skills gained throughout the semester, we are assigned a project that requires us to solve a local Foundations (South-Saskatewan Community Foundation) need for a precise and easily navigable area on their website for charities and foundations to find resources and support.
+To address the South Saskatchewan Community Foundation's need for accessible resources, we're designing a clear, navigable website section for charities and foundations, leveraging our semester's learning."
 
 <br> </b>
 ___________________________________________________________________________________________________________________________________________________________________
