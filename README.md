@@ -47,6 +47,17 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________________________________
 <br> </b>
+<br> </b>
+
+![image](https://github.com/user-attachments/assets/9806428e-1037-4021-acf8-2c9f495cd527)
+<br> </b>
+## You can access the Figma high-fidelity prototype via the link below. To find our publicly published profile, search for our handle @SSCF on Figma.
+<br> </b>
+https://www.figma.com/community/file/1481146824076209134
+<br> </b>
+<br> </b>
+___________________________________________________________________________________________________________________________________________________________________
+<br> </b>
 # [<img src="https://github.com/user-attachments/assets/b7a6ed9b-12d8-4340-a259-dd1cb106e7d6" width="32" height="32">](https://goncin.storiesonboard.com/storymap/guidemap) StoriesOnBoard
 
 We, as a group, collectively gather and organize our ideas [here](https://goncin.storiesonboard.com/storymap/guidemap)!
