@@ -58,6 +58,19 @@ ________________________________________________________________________________
 You can access the Figma high-fidelity prototype via the QR Code or link below. To find our publicly published profile, search for our handle @SSCF on Figma.
 <br> </b>
 
+<head>
+    <style>
+        .center-image {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="center-image">
+        <img src="https://github.com/user-attachments/assets/827df43d-b033-44f5-84bd-878375a98f43" alt="Image to be centered">
+    </div>
+</body>
+
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/827df43d-b033-44f5-84bd-878375a98f43" alt="Image to be centered">
 </div>
