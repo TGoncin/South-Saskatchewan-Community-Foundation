@@ -1,9 +1,9 @@
-# Activity 1 Contents:
+# Contents:
 ___________________________________________________
 
 ___________________________________________________
 
-## First Week's Notes:
+## Initial Notes:
 ![image](https://github.com/user-attachments/assets/52bd19bc-66a8-4fc3-beee-c59fc572e62c)
 ![image](https://github.com/user-attachments/assets/48b16d12-8970-47e6-b60f-3fbe6ba043f7)
 ![image](https://github.com/user-attachments/assets/feb02f90-cfd5-459c-9ccf-6cee5453ebe3)
