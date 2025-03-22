@@ -1,11 +1,12 @@
 <br> </b>
 
-## <ins>_____ ▂ ▄ ▅ ▆ UofR Software Systems Engineering Project ▆ ▅ ▄ ▂ _____</ins>
+## _____ ▂ ▄ ▅ ▆ South Saskatchewan Community Foundation Charity Resource Hub ▆ ▅ ▄ ▂ _____</ins>
 
 <br> </b>
 
 <br> </b>
-![SSCF-GradientLogomark-GreyWordmark](https://github.com/user-attachments/assets/26ad7898-1b2b-4d72-95f4-f5194feb1953)
+![clear logo white text](https://github.com/user-attachments/assets/1734f0e9-3958-46e4-bdf2-b6c7322103f0)
+
 <br> </b>
 <br> </b>
 ## Goal Summary
@@ -51,7 +52,13 @@ ________________________________________________________________________________
 
 ![image](https://github.com/user-attachments/assets/9806428e-1037-4021-acf8-2c9f495cd527)
 <br> </b>
-## You can access the Figma high-fidelity prototype via the link below. To find our publicly published profile, search for our handle @SSCF on Figma.
+You can access the Figma high-fidelity prototype via the QR Code or link below. To find our publicly published profile, search for our handle @SSCF on Figma.
+<br> </b>
+![image](https://github.com/user-attachments/assets/827df43d-b033-44f5-84bd-878375a98f43)
+<a href="https://www.figma.com/community/file/1481146824076209134">
+  <img src="![image](https://github.com/user-attachments/assets/827df43d-b033-44f5-84bd-878375a98f43)" alt="FIGMA QR Code">
+</a>
+
 <br> </b>
 https://www.figma.com/community/file/1481146824076209134
 <br> </b>
@@ -60,12 +67,15 @@ ________________________________________________________________________________
 <br> </b>
 # [<img src="https://github.com/user-attachments/assets/b7a6ed9b-12d8-4340-a259-dd1cb106e7d6" width="32" height="32">](https://goncin.storiesonboard.com/storymap/guidemap) StoriesOnBoard
 
-We, as a group, collectively gather and organize our ideas [here](https://goncin.storiesonboard.com/storymap/guidemap)!
+We've used Stories On Board as our medium for the design outline [here](https://goncin.storiesonboard.com/storymap/guidemap)!
 
 <br> </b>
 ## Summary of Stories On Board
 <br> </b>
-### For a quicker overview, we've included a single image of the Stories On Board Story Mapping of the project, and below it, subpage content. <br> </b>
+Below the link is provided a wire diagram for easier interpretation of the orientation of the website, as well as a screen shot of our Stories On Board, which is the user story mapping program used as our medium for our projects design outline. 
+
+Each separate color on our Stories On Board user story map represents separate website branches (Content related pages).
+
 <br> </b>
 Alternatively, the link above provides direct access to the full Stories On Board file, or you can see the full detailed .PDF under the folder "Activity 2" above.
 <br> </b>
