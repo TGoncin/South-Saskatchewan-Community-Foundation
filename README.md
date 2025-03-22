@@ -49,14 +49,20 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________
 <br> </b>
 <br> </b>
-
-![image](https://github.com/user-attachments/assets/9806428e-1037-4021-acf8-2c9f495cd527)
+## The Hi-Fidelity Design Of The Charity Resource Hub
+<br> </b>
+<br> </b>
+![image](https://github.com/user-attachments/assets/9806428e-1037-4021-acf8-2c9f495cd527)<a href="https://www.figma.com/community/file/1481146824076209134">Click here for the Figma Link</a>
+<br> </b>
 <br> </b>
 You can access the Figma high-fidelity prototype via the QR Code or link below. To find our publicly published profile, search for our handle @SSCF on Figma.
 <br> </b>
-![image](https://github.com/user-attachments/assets/827df43d-b033-44f5-84bd-878375a98f43)
-<a href="https://www.figma.com/community/file/1481146824076209134">Click here for the Figma Link></a>
 
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/827df43d-b033-44f5-84bd-878375a98f43" alt="Image to be centered">
+</div>
+
+![image](https://github.com/user-attachments/assets/827df43d-b033-44f5-84bd-878375a98f43)
 <br> </b>
 <br> </b>
 <br> </b>
