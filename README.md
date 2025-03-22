@@ -1,6 +1,6 @@
 <br> </b>
 
-## _____ ▂ ▄ ▅ ▆ South Saskatchewan Community Foundation Charity Resource Hub ▆ ▅ ▄ ▂ _____</ins>
+## _____ ▂ ▄ ▅ South Saskatchewan Community Foundation Charity Resource Hub ▅ ▄ ▂ _____</ins>
 
 <br> </b>
 
