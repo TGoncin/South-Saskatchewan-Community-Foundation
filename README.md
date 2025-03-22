@@ -110,6 +110,11 @@
 
 <br> </b>
 <br> </b>
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/ba2a9bea-edff-489a-ae5a-9d4d974f5c98" alt="QR Code">
+</div
+
+
 <br> </b>
 <br> </b>
 
