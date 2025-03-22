@@ -55,12 +55,9 @@ ________________________________________________________________________________
 You can access the Figma high-fidelity prototype via the QR Code or link below. To find our publicly published profile, search for our handle @SSCF on Figma.
 <br> </b>
 ![image](https://github.com/user-attachments/assets/827df43d-b033-44f5-84bd-878375a98f43)
-<a href="https://www.figma.com/community/file/1481146824076209134">
-  <img src="![image](https://github.com/user-attachments/assets/827df43d-b033-44f5-84bd-878375a98f43)" alt="FIGMA QR Code">
-</a>
+<a href="https://www.figma.com/community/file/1481146824076209134">Click here for the Figma Link></a>
 
 <br> </b>
-https://www.figma.com/community/file/1481146824076209134
 <br> </b>
 <br> </b>
 ___________________________________________________________________________________________________________________________________________________________________
