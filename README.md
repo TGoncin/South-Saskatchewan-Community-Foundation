@@ -76,24 +76,33 @@
 <h5 align="center">
   
 ![image](https://github.com/user-attachments/assets/9806428e-1037-4021-acf8-2c9f495cd527)<br><a href="https://www.figma.com/community/file/1481146824076209134">Click here for the Figma Link</a>
-<br> </b>
-<br>
- You can access the Figma high-fidelity prototype via the QR Code or link below. To find our publicly published profile, search for our handle @SSCF on Figma.
+
 <br> </b>
 <br> </b>
+<br> </b>
+Unable to click? You can access the Figma high-fidelity prototype via the QR Code or link above to find our publicly published profile. You can also search our handle @SSCF on Figma.
 <br> </b>
 <br> </b>
 
-<h2 align="center">Website Design's User Story Map</h3>
-<br> </b>
 <h5 align="center">
-  
-[<img src="https://github.com/user-attachments/assets/b7a6ed9b-12d8-4340-a259-dd1cb106e7d6" width="32" height="32">](https://goncin.storiesonboard.com/storymap/guidemap) StoriesOnBoard
 
 <br> </b>
 <br> </b>
 
 <div style="text-align: center;">  <img src="https://github.com/user-attachments/assets/a6754055-693b-482f-a6c2-148f8e42f61e" alt="link">
+<br>
+<br> </b>
+<br> </b>
+</div></br>
+<h2 align="center">Website Design's User Story Map</h3>
+<br> </b>
+<br> </b>
+
+<h5 align="center">
+  
+[<img src="https://github.com/user-attachments/assets/b7a6ed9b-12d8-4340-a259-dd1cb106e7d6" width="32" height="32">](https://goncin.storiesonboard.com/storymap/guidemap) StoriesOnBoard
+
+
 <br>
 </div></br>
 
