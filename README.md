@@ -32,26 +32,10 @@
 <br> </b>
 <br> </b>
 
-#### → Red Alert: WordPress is down again until further notice.</b>
+- Red Alert: WordPress is down again until further notice.</b>
 </b>
 
-#### → Current state: Yellow-Status (Cautionary State)
-
-  - The bare-bone creation has been complete<br>
-  - Roles determined</b>
-</b>
-
-#### → Objectives for transition to green state (Moderate State):
-
-  - Color & design homogeneity as directed by SSCF Visual Identify Guidelines<br>
-    -	Text font & size<br>
-    -	Colour patterns (Properly implemented by given Hex, RGB, CMYK, PMS codes)<br>
-    -	Ensuring clear affordances for common actions, with easy-to-find pathways to less frequent or specialized information <br>
-    - Hierarchy clarification for highlighted information<br>
-    -	Simplified signifiers to ensure intuitive navigation<br>
-
-  •	Clarifications of website objectives organized for presentation to client</b>
-<br></br>
+- Final Testing: Ready to present once servers are up again.
 
 </p>
 <br> </b>
