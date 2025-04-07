@@ -26,20 +26,21 @@
 <br></br>
 <br></br>
 
-<center><h2> Current Project Status Report</h2></center>
+<h2 align="center">Current Project Status Report</h2>
+<b>
 
 <br> </b>
 <br> </b>
 
-### Red Alert: WordPress is down again until further notice.
+#### Red Alert: WordPress is down again until further notice.
 <br> </b>
 
-### Current state: Yellow-Status (Cautionary State)
+#### Current state: Yellow-Status (Cautionary State)
 
   - The bare-bone creation has been complete<br>
   - Roles determined<br>
 <br></br>
-### Objectives for transition to green state (Moderate State):
+#### Objectives for transition to green state (Moderate State):
 
   - Color & design homogeneity as directed by SSCF Visual Identify Guidelines<br>
     -	Text font & size<br>
@@ -56,17 +57,13 @@
 <br> </b>
 <br> </b>
 
-  
-<h2>Our Team, Here At Group A Inc.</h2>
+  <h2 align="center">Our Team, Here At Group A Inc.</h2>
 
-<p>
-  
-<br>
   
 <br> </b>
 
   
-<table style="font-size: 15px; margin: 0 auto;">
+<table align="center">
     <tr>
       <th>Group Members:</th>
       <th>Tom Goncin</th>
@@ -91,7 +88,7 @@
 <br> </b>
 <br> </b>
 <br> </b>
-<h2> The Hi-Fidelity Design Of The Charity Resource Hub </h2>
+  <h2 align="center">The Hi-Fidelity Design Of The Charity Resource Hub</h2>
 <br> </b>
 <br> </b>
 <h5 align="center">
@@ -107,7 +104,8 @@
 
 <br> </b>
 <br> </b>
-<h2>Website Design's User Story Map</h3>
+
+<h2 align="center">Website Design's User Story Map</h3>
 <br> </b>
 <h5 align="center">
   
@@ -124,7 +122,7 @@
 <br> </b>
 <br> </b>
 
-<h2>Summary of Stories On Board</h2>
+<h2 align="center">Summary of Stories On Board</h2>
 
 <br> </b>
 
@@ -145,7 +143,7 @@ Each separate color on our Stories On Board user story map indicates separate we
 <br> </b>
 <br> </b>
 
-<h2> Summary of Website Branches</h2>
+<h2 align="center"> Summary of Website Branches</h2>
 
 <br> </b>
 <br> </b>
