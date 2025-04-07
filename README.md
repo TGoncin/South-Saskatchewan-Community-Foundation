@@ -125,6 +125,7 @@ Below the link is provided a wire diagram for easier interpretation of the orien
 
 <br></br>
 
+
 <p align="center">
   
 ![image](https://github.com/user-attachments/assets/4616baa4-3ed3-4004-90e2-bee1571bdf02)
