@@ -96,18 +96,19 @@ Unable to click? You can access the Figma high-fidelity prototype via the QR Cod
 </div></br>
 <h2 align="center">Website Design's User Story Map</h2>
 <br> </b>
-<br> </b>
+
 
 <h5 align="center">
   
 [<img src="https://github.com/user-attachments/assets/b7a6ed9b-12d8-4340-a259-dd1cb106e7d6" width="32" height="32">](https://goncin.storiesonboard.com/storymap/guidemap) StoriesOnBoard
 
-<h3 align="center">Click the link above to view our User Story Map on StoriesOnBoard!</h3>
-<br>
+
+
 </div></br>
 
 
 <br> </b>
+<h3>Summary of User Story Map</h3>
 Each separate color on our Stories On Board user story map indicates separate website branches (Content related pages).
 
 <br> </b>
@@ -118,7 +119,7 @@ Each separate color on our Stories On Board user story map indicates separate we
 </p>
 
 <br> </b>
-<h3 align="center">Summary of Stories On Board</h3>
+<h3>User Story Map Flow Chart</h3>
 
 
 Below the link is provided a wire diagram for easier interpretation of the orientation of the website, as well as a screen shot of our Stories On Board, which is the user story mapping program used as our medium for our projects design outline. 
@@ -133,9 +134,8 @@ Below the link is provided a wire diagram for easier interpretation of the orien
 
 <br> </b>
 <br> </b>
-<br> </b>
 
-<h3 align="center"> Summary of Website Branches</h3>
+<h3> Summary of Website Branches</h3>
 
 For a more detailed overview we've provided a .pdf of the User Story Map in our folder, "Project Planning"
 <br> </b>
