@@ -5,9 +5,8 @@
   ![clear logo white text](https://github.com/user-attachments/assets/53b15a24-d118-435b-b491-6b7ac0aa6031)</a>
   <br>
   
-  South Saskatchewan Commmunity Foundation Charity Resource Hub Design Project
-  <br>
-</h1>
+  Extending the South Saskatchewan Community Foundations Website with a Charity Resource Hub<br></h1>
+  <h3 align="center"> Complete design and implementation of this new resource hub.<h3>
 
 <h4 align="center">Curious as to what the South-Saskatchewan Community Foundation is? <a href="https://sscf.ca/" target="_blank">Click Here to visit their website!</a></h4>
 <br>
