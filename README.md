@@ -123,7 +123,7 @@ Each separate color on our Stories On Board user story map indicates separate we
 
 
 Below the link is provided a wire diagram for easier interpretation of the orientation of the website, as well as a screen shot of our Stories On Board, which is the user story mapping program used as our medium for our projects design outline. 
-
+<br> </b>
 <br></br>
 
 
@@ -132,7 +132,6 @@ Below the link is provided a wire diagram for easier interpretation of the orien
 ![image](https://github.com/user-attachments/assets/4616baa4-3ed3-4004-90e2-bee1571bdf02)
 </p>
 
-<br> </b>
 <br> </b>
 
 <h3> Summary of Website Branches</h3>
