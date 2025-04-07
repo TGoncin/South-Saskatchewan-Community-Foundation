@@ -15,7 +15,7 @@
 
 <p align="center">
   Quick Links listed Below <br><br>
-  • <a href="https://www.figma.com/community/file/1481146824076209134"> User Story Map </a> •
+  • <a href="https://goncin.storiesonboard.com/m/guidemap"> User Story Map </a> •
   <a href="https://www.figma.com/community/file/1481146824076209134"> Publically Published High-Fidelity Prototype </a> •
 </p>
 <br></br>
@@ -94,7 +94,7 @@ Unable to click? You can access the Figma high-fidelity prototype via the QR Cod
 <br> </b>
 <br> </b>
 </div></br>
-<h2 align="center">Website Design's User Story Map</h3>
+<h2 align="center">Website Design's User Story Map</h2>
 <br> </b>
 <br> </b>
 
@@ -102,42 +102,48 @@ Unable to click? You can access the Figma high-fidelity prototype via the QR Cod
   
 [<img src="https://github.com/user-attachments/assets/b7a6ed9b-12d8-4340-a259-dd1cb106e7d6" width="32" height="32">](https://goncin.storiesonboard.com/storymap/guidemap) StoriesOnBoard
 
-
+<h3 align="center">Click the link above to view our User Story Map on StoriesOnBoard!</h3>
 <br>
 </div></br>
 
 
 <br> </b>
-<br> </b>
-
-<h2 align="center">Summary of Stories On Board</h2>
+Each separate color on our Stories On Board user story map indicates separate website branches (Content related pages).
 
 <br> </b>
+
+<p align="center">
+  
+![image](https://github.com/user-attachments/assets/0c96162f-bfa9-42e9-a0d6-a353bf2bab54)
+</p>
+
+<br> </b>
+<h3 align="center">Summary of Stories On Board</h3>
+
 
 Below the link is provided a wire diagram for easier interpretation of the orientation of the website, as well as a screen shot of our Stories On Board, which is the user story mapping program used as our medium for our projects design outline. 
 
 <br></br>
+
+<p align="center">
+  
 ![image](https://github.com/user-attachments/assets/4616baa4-3ed3-4004-90e2-bee1571bdf02)
-
-<br> </b>
-<br> </b>
-
-Each separate color on our Stories On Board user story map indicates separate website branches (Content related pages).
-
-<br> </b>
-![image](https://github.com/user-attachments/assets/0c96162f-bfa9-42e9-a0d6-a353bf2bab54)
+</p>
 
 <br> </b>
 <br> </b>
 <br> </b>
 
-<h2 align="center"> Summary of Website Branches</h2>
+<h3 align="center"> Summary of Website Branches</h3>
 
 For a more detailed overview we've provided a .pdf of the User Story Map in our folder, "Project Planning"
 <br> </b>
 <br> </b>
-![image](https://github.com/user-attachments/assets/d897a0b2-fb46-4601-9e2d-43845fcf3f18)
 
+<p align="center">
+  
+![image](https://github.com/user-attachments/assets/d897a0b2-fb46-4601-9e2d-43845fcf3f18)
+</p>
 
 <br> </b>
 <br> </b>
