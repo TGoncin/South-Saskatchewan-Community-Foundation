@@ -133,6 +133,7 @@ Each separate color on our Stories On Board user story map indicates separate we
 
 <h2 align="center"> Summary of Website Branches</h2>
 
+For a more detailed overview we've provided a .pdf of the User Story Map in our folder, "Project Planning"
 <br> </b>
 <br> </b>
 ![image](https://github.com/user-attachments/assets/d897a0b2-fb46-4601-9e2d-43845fcf3f18)
