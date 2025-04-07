@@ -25,23 +25,26 @@
 ![recordingvideo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/28744b86-f85a-4176-8343-b14be302c0ed)
 <br></br>
 <br></br>
-<h2> Current Project Status Report</h3>  
+<h1> Current Project Status Report</h1>  
 <br> </b>
 <br> </b>
 
-#### ▅ Current state: Yellow-Status (Cautionary State)
+### Red Alert: WordPress is down again until further notice.
+<br> </b>
 
-  * The bare-bone creation has been complete<br>
-  * Roles determined<br>
+### Current state: Yellow-Status (Cautionary State)
+
+  - The bare-bone creation has been complete<br>
+  - Roles determined<br>
 <br></br>
-#### ▅ Objectives for transition to green state (Moderate State):
+### Objectives for transition to green state (Moderate State):
 
-  * Color & design homogeneity as directed by SSCF Visual Identify Guidelines<br>
-    •		Text font & size<br>
-    •		Colour patterns (Properly implemented by given Hex, RGB, CMYK, PMS codes)<br>
-    •		Ensuring clear affordances for common actions, with easy-to-find pathways to less frequent or specialized information <br>
-    •	 Hierarchy clarification for highlighted information<br>
-    •		Simplified signifiers to ensure intuitive navigation<br>
+  - Color & design homogeneity as directed by SSCF Visual Identify Guidelines<br>
+    -	Text font & size<br>
+    -	Colour patterns (Properly implemented by given Hex, RGB, CMYK, PMS codes)<br>
+    -	Ensuring clear affordances for common actions, with easy-to-find pathways to less frequent or specialized information <br>
+    - Hierarchy clarification for highlighted information<br>
+    -	Simplified signifiers to ensure intuitive navigation<br>
 
   •	Clarifications of website objectives organized for presentation to client
 <br></br>
