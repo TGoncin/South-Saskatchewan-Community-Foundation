@@ -10,12 +10,6 @@ ___________________________________________________
 
 ___________________________________________________
 
-## Team-Customer Check in
-![image](https://github.com/user-attachments/assets/2bbca099-6ced-4af0-bc23-08d6aea8c557)
-![image](https://github.com/user-attachments/assets/4cad724d-06f9-4bf1-9cb3-437fd7e934e8)
-
-___________________________________________________
-
 ## Affinity Diagrams
 ### Tom Goncin:
 ![image](https://github.com/user-attachments/assets/07e49df0-34cc-4966-a46f-af91b2208191)
