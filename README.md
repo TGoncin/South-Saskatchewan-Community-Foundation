@@ -20,11 +20,11 @@
   <a href="https://www.figma.com/design/TgnRx74clRPv5DuKTSfVkC/SSCF-Hi-Fi-Prototype?node-id=228-2&p=f&t=fbpTSpMXmekQrcFp-0">High-Fidelity Prototype</a> •
 </p>
 <br></br>
-<p align="center">
- 
+
 ![recordingvideo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/28744b86-f85a-4176-8343-b14be302c0ed)
-<br></br>
-<br></br>
+
+
+<br> </b>
 
 <h2 align="center">Current Project Status Report</h2>
 <b>
@@ -32,15 +32,16 @@
 <br> </b>
 <br> </b>
 
-#### Red Alert: WordPress is down again until further notice.
-<br> </b>
+#### → Red Alert: WordPress is down again until further notice.</b>
+</b>
 
-#### Current state: Yellow-Status (Cautionary State)
+#### → Current state: Yellow-Status (Cautionary State)
 
   - The bare-bone creation has been complete<br>
-  - Roles determined<br>
-<br></br>
-#### Objectives for transition to green state (Moderate State):
+  - Roles determined</b>
+</b>
+
+#### → Objectives for transition to green state (Moderate State):
 
   - Color & design homogeneity as directed by SSCF Visual Identify Guidelines<br>
     -	Text font & size<br>
@@ -49,17 +50,14 @@
     - Hierarchy clarification for highlighted information<br>
     -	Simplified signifiers to ensure intuitive navigation<br>
 
-  •	Clarifications of website objectives organized for presentation to client
+  •	Clarifications of website objectives organized for presentation to client</b>
 <br></br>
 
 </p>
 <br> </b>
-<br> </b>
-<br> </b>
 
   <h2 align="center">Our Team, Here At Group A Inc.</h2>
-
-  
+<br> </b>  
 <br> </b>
 
   
@@ -88,20 +86,18 @@
 <br> </b>
 <br> </b>
 <br> </b>
+
   <h2 align="center">The Hi-Fidelity Design Of The Charity Resource Hub</h2>
 <br> </b>
-<br> </b>
+
 <h5 align="center">
   
 ![image](https://github.com/user-attachments/assets/9806428e-1037-4021-acf8-2c9f495cd527)<br><a href="https://www.figma.com/community/file/1481146824076209134">Click here for the Figma Link</a>
 <br> </b>
-<br> 
-
-
-  
-<p>You can access the Figma high-fidelity prototype via the QR Code or link below. To find our publicly published profile, search for our handle @SSCF on Figma. <br>
-</p>
-
+<br>
+ You can access the Figma high-fidelity prototype via the QR Code or link below. To find our publicly published profile, search for our handle @SSCF on Figma.
+<br> </b>
+<br> </b>
 <br> </b>
 <br> </b>
 
