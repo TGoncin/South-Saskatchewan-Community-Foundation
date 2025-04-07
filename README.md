@@ -16,7 +16,7 @@
 <p align="center">
   Quick Links listed Below <br><br>
   • <a href="https://www.figma.com/community/file/1481146824076209134"> User Story Map </a> •
-  <a href="https://www.figma.com/design/TgnRx74clRPv5DuKTSfVkC/SSCF-Hi-Fi-Prototype?node-id=228-2&p=f&t=fbpTSpMXmekQrcFp-0"> High-Fidelity Prototype </a> •
+  <a href="https://www.figma.com/community/file/1481146824076209134"> High-Fidelity Prototype </a> •
 </p>
 <br></br>
 
