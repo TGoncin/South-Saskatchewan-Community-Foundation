@@ -139,6 +139,7 @@ Below the link is provided a wire diagram for easier interpretation of the orien
 For a more detailed overview we've provided a .pdf of the User Story Map in our folder, "Project Planning"
 <br> </b>
 <br> </b>
+<br> </b>
 
 <p align="center">
   
