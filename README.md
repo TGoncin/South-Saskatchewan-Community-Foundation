@@ -31,8 +31,6 @@
 <br> </b>
 <br> </b>
 
-- Red Alert: WordPress is down again until further notice.</b>
-</b>
 
 - Final Testing: Ready to present once servers are up again.
 
