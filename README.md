@@ -32,7 +32,7 @@
 <br> </b>
 
 
-- Final Testing: Ready to present once servers are up again.
+- Project up & running. Presented to client.
 
 </p>
 <br> </b>
