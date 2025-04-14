@@ -39,7 +39,7 @@ ___________________________________________________
 
 ## Low-Fidelity Prototypes
 ### Tom Goncin:
-
+![image](https://github.com/user-attachments/assets/3bbdf873-96c9-4d01-999a-de287c3aa066)
 ### Gabriel:
 ![image](https://github.com/user-attachments/assets/c48af31f-e5f7-4ff6-ad79-764c04a438ca)
 ### Zifran:
