@@ -20,7 +20,8 @@
 </p>
 <br></br>
 
-![recordingvideo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/28744b86-f85a-4176-8343-b14be302c0ed)
+
+![recordingvideo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e42ee677-cadd-4a09-bc31-37d9c49e3e06)
 
 
 <br> </b>
